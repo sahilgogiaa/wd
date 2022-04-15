@@ -50,12 +50,41 @@ li {
   position: relative;
 }
 
-.middle {}
+.middle-container {
+  margin: 100px 0;
+}
+
+.coder-img {
+  width: 15%;
+  margin: 50px auto 0 auto;
+}
+
+.chillies-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.intro {
+  width: 30%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.coding-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
 
 .bottom-container {
   background-color: #30475E;
   padding-top: 60px;
-  
 }
 
 h1 {
@@ -125,9 +154,10 @@ hr {
 }
 
 .sign {
-  color: #EEF2FF;
-  padding: 20px 0;
-  font-size: .9rem;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #EAF6F6;
+  font-size: 0.75rem;
 }
 
 .bot-a a:hover {
@@ -188,23 +218,19 @@ hr {
   0;
 }
 
-.intro {
-  width: 30%;
+.footer-link {
+  padding: 0 30px;
+  margin: 50px auto 50px auto;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .contact-msg {
-  width: 30%;
+  width: 40%;
+  margin: 40px auto;
 }
 
 .l2 {
-  font-family: 'Montserrat', sans-serif;
   position: absolute;
   right: 10px;
-}
-
-.skill-row {
-  width: 60%;
-  margin: 100px auto;
-  text-align: left;
-  line-height: 2;
 }
