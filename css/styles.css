@@ -116,6 +116,10 @@ span {
 
 .intro {
   width: 30%;
+  line-height: 2;
+  margin: auto;
+  font-size: 1.2rem;
+  color: #40514E;
 }
 
 p {
@@ -195,6 +199,10 @@ hr {
 .contact-msg {
   width: 40%;
   margin: 40px auto;
+  line-height: 2;
+  margin: auto;
+  font-size: 1.2rem;
+  color: #40514E;
 }
 
 .contact-me {
