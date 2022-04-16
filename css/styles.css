@@ -234,3 +234,6 @@ hr {
   position: absolute;
   right: 10px;
 }
+.footer-link:hover {
+  color: black;
+}
