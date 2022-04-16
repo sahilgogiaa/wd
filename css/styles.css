@@ -237,3 +237,6 @@ hr {
 .footer-link:hover {
   color: black;
 }
+.middle-container img{
+  width: 250px;
+}
